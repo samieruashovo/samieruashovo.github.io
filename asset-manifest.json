@@ -1,33 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c8b8e37.css",
-    "main.js": "/static/js/main.e035d785.js",
-    "static/js/787.f2e3cfeb.chunk.js": "/static/js/787.f2e3cfeb.chunk.js",
-    "static/media/dashboard.gif": "/static/media/dashboard.d8d892905f2cdab82187.gif",
-    "static/media/sidenavDark.svg": "/static/media/sidenavDark.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/sidenavLight.svg": "/static/media/sidenavLight.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/contact.png": "/static/media/contact.411aa947ff95059dd5d7.png",
-    "static/media/c++.png": "/static/media/c++.7764d449dcf4f28e2275.png",
-    "static/media/contact1.png": "/static/media/contact1.c6199ca74f4e653131db.png",
-    "static/media/mpt.jpeg": "/static/media/mpt.24d273feb777e086d16d.jpeg",
-    "static/media/cb2d.jpeg": "/static/media/cb2d.86cb192820220f6d7358.jpeg",
-    "static/media/mb2d.jpeg": "/static/media/mb2d.36c89f6429a9520af3f4.jpeg",
-    "static/media/vscanner.jpeg": "/static/media/vscanner.6d0f72b40e9a484157d9.jpeg",
-    "static/media/django.png": "/static/media/django.4c399895f677cd3bfbc8.png",
-    "static/media/flutter.png": "/static/media/flutter.544bc95df5fb53b3d5da.png",
-    "static/media/mongodb.svg": "/static/media/mongodb.219f7ae3c9abd445d6b82c941ad73702.svg",
-    "static/media/react.svg": "/static/media/react.cc8a3326a9a43518b033b383390f00d0.svg",
-    "static/media/nodejs.svg": "/static/media/nodejs.41a0e1af4b72f61e8496e4877da39db3.svg",
-    "static/media/git.svg": "/static/media/git.ebf48408b5ae3138009c3d44ff956f56.svg",
-    "static/media/typescript.svg": "/static/media/typescript.ba3c3706498764b53db071cad5b964aa.svg",
-    "static/media/javascript.svg": "/static/media/javascript.e7363ab96f901afdeb86963dd6a44ce2.svg",
+    "main.css": "/static/css/main.4ec5aa3b.css",
+    "main.js": "/static/js/main.12e099d0.js",
     "index.html": "/index.html",
-    "main.3c8b8e37.css.map": "/static/css/main.3c8b8e37.css.map",
-    "main.e035d785.js.map": "/static/js/main.e035d785.js.map",
-    "787.f2e3cfeb.chunk.js.map": "/static/js/787.f2e3cfeb.chunk.js.map"
+    "static/media/blob-haikei.svg": "/static/media/blob-haikei.e2321bd389d222f9432a.svg",
+    "main.4ec5aa3b.css.map": "/static/css/main.4ec5aa3b.css.map",
+    "main.12e099d0.js.map": "/static/js/main.12e099d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c8b8e37.css",
-    "static/js/main.e035d785.js"
+    "static/css/main.4ec5aa3b.css",
+    "static/js/main.12e099d0.js"
   ]
 }
