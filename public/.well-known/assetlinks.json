@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "tech.shovo.numbercrunch",
+      "sha256_cert_fingerprints": [
+        "2A:83:78:FF:ED:CC:CE:27:11:CB:F8:98:CC:BD:CB:B2:F7:E6:ED:77:F8:D4:74:2F:A8:BD:CD:80:AE:41:BE:E3"
+      ]
+    }
+  }
+]
