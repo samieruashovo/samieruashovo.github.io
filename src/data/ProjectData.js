@@ -5,7 +5,7 @@ export const ProjectList = [
     title: "2048 - Number Merge",
     description:
       "The classic 2048 game with a twist. Merge numbers to get the highest score.",
-    tech_stack: ["Flutter", "Riverpod", "Firebase Analytics", "Admob Ads"],
+    tech_stack: ["Flutter", "BloC", "Firebase Analytics", "Admob Ads"],
     github_url: "",
     demo_url:
       "https://play.google.com/store/apps/details?id=tech.shovo.numbercrunch&fbclid=IwAR0u_iUgt1PBji9GLuNVvLPEZa0ceCNkxFZn9Ya9EWSD1wwNqcSdub_9Dnw",
@@ -42,6 +42,18 @@ export const ProjectList = [
   },
 ];
 
+export const OpenSourceContributionsList = [
+  {
+    img: "/osc-1.png",
+    title: "flutter_faker_plus",
+    description:
+      "A customizable fake data generator for Flutter, supporting names, addresses, texts, and more.",
+    tech_stack: ["Flutter", "Pub Dev"],
+    github_url: "",
+    demo_url:
+      "https://pub.dev/packages/flutter_faker_plus",
+  },
+];
 // --------------------------------------- Skills
 
 export const stackList = [
@@ -50,24 +62,8 @@ export const stackList = [
     name: "Flutter",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg",
-    name: "Arduino",
-  },
-  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg",
     name: "Dart",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
-    name: "ReactJS",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg",
-    name: "Docker",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
-    name: "NodeJS",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
@@ -82,6 +78,40 @@ export const stackList = [
     name: "Django",
   },
   {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+    name: "Python",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg",
+    name: "Linux",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg",
+    name: "Debian",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg",
+    name: "Figma",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg",
+    name: "Arduino",
+  },
+  
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
+    name: "ReactJS",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg",
+    name: "Docker",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
+    name: "NodeJS",
+  },
+  
+  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
     name: "Firebase",
   },
@@ -89,10 +119,7 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg",
     name: "MongoDB",
   },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-    name: "Python",
-  },
+  
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg",
     name: "Matlab",
@@ -109,18 +136,8 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
     name: "MySQL",
   },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg",
-    name: "Linux",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg",
-    name: "Debian",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg",
-    name: "Figma",
-  },
+  
+  
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg",
     name: "OpenCV",

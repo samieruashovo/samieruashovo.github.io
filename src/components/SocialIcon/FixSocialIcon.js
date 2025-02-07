@@ -58,7 +58,7 @@ function FixSocialIcon() {
         <ul>
           <li className="item">
             <a
-              href="https://www.linkedin.com/in/samier-uddin-ahammad-shovo-13961b229/"
+              href="https://www.linkedin.com/in/samieruashovo"
               target="_blank"
               rel="noopener noreferrer"
             >
