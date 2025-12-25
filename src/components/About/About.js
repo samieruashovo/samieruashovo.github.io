@@ -27,13 +27,13 @@ function About() {
             <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-            <div class="skills-title">🔹 Mobile Engineer</div>
+            <div class="skills-title">🔹 Software Engineer (Flutter & Android) </div>
               My expertise lies in Flutter, where I design and develop
               full-featured mobile applications with clean architecture, MVVM architecture
               and state management solutions like and BloC & GetX.
               I’ve worked on various apps, from productivity tools to
-              games, including my published 2048 - Number Merge game,
-              which features multiple themes, customizable board sizes,
+              games, including my published SlideFinity app on Google Play Store,
+              which features multiple themes, customizable board sizes, Play Games services
               and a sleek UI.
               I also focus on app performance optimization,
               offline-first architectures, and native

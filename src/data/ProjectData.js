@@ -2,34 +2,33 @@
 export const ProjectList = [
   {
     img: "/2048.png",
-    title: "2048 - Number Merge",
+    title: "SlideFinity",
     description:
       "The classic 2048 game with a twist. Merge numbers to get the highest score.",
-    tech_stack: ["Flutter", "BloC", "Firebase Analytics", "Admob Ads"],
+    tech_stack: ["Flutter", "Riverpod", "Firebase Analytics", "Admob Ads"],
     github_url: "",
     demo_url:
-      "https://play.google.com/store/apps/details?id=tech.shovo.numbercrunch&fbclid=IwAR0u_iUgt1PBji9GLuNVvLPEZa0ceCNkxFZn9Ya9EWSD1wwNqcSdub_9Dnw",
-  },
-  {
-    img: "/tetris.png",
-    title: "MASTER BRICK 2D - BRICK GAME",
-    description:
-      "A Tetris game where users can play and compete with each other.",
-    tech_stack: ["Flutter", "Provider", "Firebase Analytics", "Admob Ads"],
-    github_url: "",
-    demo_url:
-      "https://play.google.com/store/apps/details?id=com.violettechapp.tetris",
-  },
-  {
-    img: "/vscanner.png",
-    title: "VSCANNER: QR & BARCODE SCANNER",
-    description:
-      "A QR and Barcode scanner app that can scan and generate QR codes.",
-    tech_stack: ["Flutter", "BloC", "Firebase Analytics", "Admob Ads"],
-    github_url: "",
-    demo_url:
-      "https://play.google.com/store/apps/details?id=com.violettechapp.vscanner",
-  },
+"https://play.google.com/store/apps/details?id=me.samiershovo.slidefinity&pcampaignid=web_share"  },
+  // {
+  //   img: "/tetris.png",
+  //   title: "MASTER BRICK 2D - BRICK GAME",
+  //   description:
+  //     "A Tetris game where users can play and compete with each other.",
+  //   tech_stack: ["Flutter", "Provider", "Firebase Analytics", "Admob Ads"],
+  //   github_url: "",
+  //   demo_url:
+  //     "https://play.google.com/store/apps/details?id=com.violettechapp.tetris",
+  // },
+  // {
+  //   img: "/vscanner.png",
+  //   title: "VSCANNER: QR & BARCODE SCANNER",
+  //   description:
+  //     "A QR and Barcode scanner app that can scan and generate QR codes.",
+  //   tech_stack: ["Flutter", "BloC", "Firebase Analytics", "Admob Ads"],
+  //   github_url: "",
+  //   demo_url:
+  //     "https://play.google.com/store/apps/details?id=com.violettechapp.vscanner",
+  // },
   {
     img: "/mpt.png",
     title: "MODERN PERIODIC TABLE - MPT",
@@ -98,10 +97,10 @@ export const stackList = [
     name: "Arduino",
   },
   
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
-    name: "ReactJS",
-  },
+  // {
+  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
+  //   name: "ReactJS",
+  // },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg",
     name: "Docker",
