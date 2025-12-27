@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "me.samiershovo.slidefinity",
+      "sha256_cert_fingerprints": [
+        "B4:69:24:82:C8:EE:AE:C8:F8:50:9F:C7:8B:C3:DD:03:99:20:CC:42:56:D0:D4:4C:78:06:B4:58:F4:FD:4C:9D"
+      ]
+    }
+  }
+]
